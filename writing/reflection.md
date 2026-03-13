@@ -1,7 +1,7 @@
 # CS101 Spring 2026 — Practice Midterm Reflection
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Francesca Hoh
+Date: 3/13/26
 
 After completing the practice test, please reflect on your experience by
 answering the questions below. Replace each `TODO` with a thoughtful response
