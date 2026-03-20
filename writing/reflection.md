@@ -4,9 +4,10 @@ Name: Francesca Hoh
 Date: 3/13/26
 
 After completing the practice test, please reflect on your experience by
-answering the questions below. Replace each `TODO` with a thoughtful response
+answering the questions below. Replace each `to and do` with a thoughtful response
 (a few sentences each). Your responses help you consolidate what you learned
 and identify areas to review before the real midterm.
+
 
 ---
 
@@ -17,7 +18,7 @@ Which topics felt most comfortable, and which ones felt most difficult?
 
 **Your Answer:**
 
-TODO
+I felt pretty good actually. I got most answers right first try. The only difficult part was Which of the following is a valid Python integer literal, but other than that it wasn't too difficult.
 
 ---
 
@@ -28,7 +29,7 @@ Explain the concept being tested and describe why the correct answer is right.
 
 **Your Answer:**
 
-TODO
+Which of the following is a valid Python **integer** literal, was the hardest question for me. I had to look up the definition to make sure I had it right. I think the answer was 0xff which actually stood for a number
 
 ---
 
@@ -39,7 +40,9 @@ with a positive step versus a negative step. Give one original example of each.
 
 **Your Answer:**
 
-TODO
+range(1, 7, 2)This skips upwards by 2
+range(3, 8, -2)This counts backwards from 2
+
 
 ---
 
@@ -51,7 +54,7 @@ dictionary and a set. When would you choose each?
 
 **Your Answer:**
 
-TODO
+For a list you can change what’s in it while in tuples you can't change what's inside. Tuples would be for unchanging variables while list could be a roster of student names. A dictionary has sets and key pairs while sets only want unique values. A set is for when you would filter while a dictionary is better for more complex values
 
 ---
 
@@ -63,7 +66,11 @@ the caller omits that argument.
 
 **Your Answer:**
 
-TODO
+A parameter is a predetermined value. def hi(name, message="Hello"):
+return f"{message}, {name}!
+print(greet("Silver"))
+If the argument is omitted it crashes.
+
 
 ---
 
@@ -81,7 +88,7 @@ for n in range(1, 11):
 
 **Your Answer:**
 
-TODO
+result = [n*2 for n in range(1, 11) if n % 3 == 0]
 
 ---
 
@@ -92,7 +99,7 @@ What is the value of `2 ** 2 ** 3`? Show your step-by-step reasoning.
 
 **Your Answer:**
 
-TODO
+The answer is 256, This is done because 2 squared is done but that is cubed so you have 2^2^3 which equals 256.
 
 ---
 
@@ -102,7 +109,7 @@ TODO
 
 **Your Answer:**
 
-TODO
+A class is sort of like a blueprint that can be used over and over again. It’s necessary to program one for organization, two for repeatability and three for functionality in general.
 
 ---
 
